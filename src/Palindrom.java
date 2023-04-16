@@ -3,6 +3,7 @@ import java.io.FileReader;
 import java.io.IOException;
 public class Palindrom {
 
+
     public Palindrom() {
     }
     public static void PalindromKontrol() throws IOException {
